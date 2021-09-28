@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(64, 136, 184);
+   text-align: center;
+   color: white;
+   font-family: sans-serif;
+}
+.greetings{
+    font-weight: 400;
+    font-size: 4em;
+}
+hr{
+    border: 5px solid white;
+    width: 6%;
+    margin: auto;
+}
+
+.time{
+    font-size: 6em;
+}
+.date{
+    font-size: 3em;
+    font-weight: 300;
+}
